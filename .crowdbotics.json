@@ -1,0 +1,14 @@
+{
+  "scaffold": {
+    "type": "react-native",
+    "version": "2.7.1",
+    "cookiecutter_context": {
+      "project_name": "Dry Butterfly",
+      "project_slug": "dry_butterfly_1",
+      "project_dash_slug": "dry-butterfly-1",
+      "project_description": "This react_native application was built with Crowdbotics www.crowdbotics.com",
+      "owner_email": "newuser@email.com",
+      "ssh_key_fingerprint": ""
+    }
+  }
+}
